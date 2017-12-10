@@ -1,1 +1,2 @@
 1. Pred shranjevanjem je bil status datotek "unknown"
+2. Pred shranjevanjem je bil status datotek "modified"
